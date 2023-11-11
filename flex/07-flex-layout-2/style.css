@@ -71,8 +71,8 @@ li {
 
 .container {
   display: flex;
-  flex-direction: column;
   padding: 32px;
+  flex-wrap: wrap;
 }
 
 .card {
